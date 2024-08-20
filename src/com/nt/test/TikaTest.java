@@ -53,7 +53,7 @@ public class TikaTest
 				break;
 				case 2: //Formatted Text Type!
 					System.out.println("PDF Formatted Text Type!");
-					System.err.println(fileContent);
+					System.out.println(fileContent);
 				break;
 				case 3: //Plain Text Type!
 					
